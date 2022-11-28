@@ -1,10 +1,9 @@
 # App react-native_crud
 App de lista de compras - Android e iOS (multiplataforma) usando React Native. Ele tem um CRUD completo, ou seja, tem listagem, cadastro, edição e exclusão de dados usando esta tecnologia e as suas funcionalidades de armazenamento interno, na memória do próprio dispositivo.
 
-
-<img src="../react-native_crud/assets/App2.png" width="250">
-<img src="../react-native_crud/assets/App1.png" width="250">
-<img src="../react-native_crud/assets/App3.png" width="250">
+<img src="assets/App2.png" width="250">
+<img src="assets/App1.png" width="250">
+<img src="assets/App3.png" width="250">
 
 
 ## Tutorial
